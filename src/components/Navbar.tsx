@@ -12,7 +12,7 @@ const Navbar = () => {
           <div className="flex items-center">
             <Link to="/" className="flex items-center space-x-2">
               <Code2 className="h-8 w-8 text-blue-500" />
-              <span className="text-white text-xl font-bold">Sigma Infotech</span>
+              <span className="text-white text-xl font-bold">Sigma</span>
             </Link>
           </div>
           <div className="hidden md:block">
