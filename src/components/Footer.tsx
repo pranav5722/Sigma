@@ -10,7 +10,7 @@ const Footer = () => {
           <div className="space-y-4">
             <div className="flex items-center space-x-2">
               <Code2 className="h-8 w-8 text-blue-500" />
-              <span className="text-xl font-bold">Sigma Infotech</span>
+              <span className="text-xl font-bold">Sigma Pvt Ltd.</span>
             </div>
             <p className="text-gray-400">
               Transforming ideas into digital reality through innovative solutions.
@@ -56,7 +56,7 @@ const Footer = () => {
         </div>
         
         <div className="border-t border-gray-800 mt-8 pt-8 text-center text-gray-400">
-          <p>&copy; {new Date().getFullYear()} Sigma Infotech Pvt Ltd. All rights reserved.</p>
+          <p>&copy; {new Date().getFullYear()} Sigma Pvt Ltd. All rights reserved.</p>
         </div>
       </div>
     </footer>
