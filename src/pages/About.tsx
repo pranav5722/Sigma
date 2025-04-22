@@ -21,31 +21,7 @@ const About = () => {
       role: 'Technical Lead',
       image: pd
     },
-    {
-      name: 'Vicky',
-      role: 'Lead Developer',
-      image: vr
-    },
-    {
-      name: 'Nirbhay',
-      role: 'Marketing Director',
-      image: ns
-    },
-    {
-      name: 'Bozo Shukla',
-      role: 'UX Designer',
-      image: sp
-    },
-    {
-      name: 'Sushant',
-      role: 'Project Manager',
-      image: ss
-    },
-    {
-      name: 'BP',
-      role: 'SEO Specialist',
-      image: bp
-    }
+   
   ];
 
   return (
